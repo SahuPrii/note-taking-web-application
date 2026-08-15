@@ -23,6 +23,6 @@ This project was developed to practice frontend development and build a simple u
 
 ## Author
 
-**Priyanshu Sahu**
+"Priyanshu Sahu"
 
 GitHub: https://github.com/SahuPrii
