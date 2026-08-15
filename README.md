@@ -26,3 +26,18 @@ This project was developed to practice frontend development and build a simple u
 "Priyanshu Sahu"
 
 GitHub: https://github.com/SahuPrii
+
+## How to Run Locally
+
+1. Clone the repository.
+2. Open the project folder in VS Code.
+3. Install the required dependencies using `npm install`.
+4. Start the development server using `npm run dev`.
+5. Open the local URL shown in the terminal.
+
+## Future Improvements
+
+- Add note search functionality
+- Add note categories
+- Improve authentication and user management
+- Add dark mode support
